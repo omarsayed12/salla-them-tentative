@@ -60,4 +60,3 @@ module.exports = {
         new CopyPlugin({patterns: [{from: asset('images'), to: public('images')}]}),
     ],
 }
-;
